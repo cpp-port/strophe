@@ -56,4 +56,8 @@ tests/test_snprintf
 tests/test_sock
 m4/
 libstrophe.project
+.DS_Store
 deployment.rc
+application_build_helper_input.txt
+application_build_helper_output.txt
+matter_output.txt
