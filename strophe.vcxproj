@@ -1080,11 +1080,6 @@
   <ItemGroup>
     <None Include="strophe.def" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\..\app\acme\acme.vcxproj">
-      <Project>{638b242f-0f21-41c3-9f66-724660046133}</Project>
-    </ProjectReference>
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
